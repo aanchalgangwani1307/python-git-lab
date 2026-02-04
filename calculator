@@ -2,9 +2,4 @@ def add (a,b):
     result = a+b
     print(f"{a} + {b} = {result}")
 add(2,3)
-
-def subtract (a,b):
-    result = a-b
-    print(f"{a} - {b} = {result}")
-subtract(2,3)
-
+   
